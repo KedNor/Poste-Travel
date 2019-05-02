@@ -1,0 +1,9 @@
+Bonjour 
+cette page web a été crée en suivant la formation John Coder sur Udemy
+il sagit du premier projet pour les bases HTML et CSS
+j'ai décidé de suivre le projet mais le faire à ma maniere.
+
+les photos sont prise sur unsplash.com
+et https://www.flaticon.com
+
+keddar noreddine 
